@@ -1,2 +1,2 @@
-﻿JuDa QiYiN KoD
- print('hello world')
+﻿JuDa QiYiN KoD\n
+print('hello world')
